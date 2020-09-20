@@ -1,0 +1,32 @@
+{
+  "links": {
+    "about": "About",
+    "features": "Features",
+    "tokenomics": "Tokenomics",
+    "roadmap": "Roadmap",
+    "english": "English",
+    "french": "Français",
+    "spanish": "Español"
+  },
+  "home": {
+    "introduction": "A real #Defi world to get reward everyday on your stake",
+    "buyToken": "Buy token",
+    "stacking": "Stacking & Earn"
+  },
+  "about": {
+    "title": "What is YFIVE.FINANCE?",
+    "paragraphe1": "YFIVE is a community driven DeFi-project by the people and for the people, the decisions and actions of YFIVE are made by its community through voting to assure equity and fairness for all.",
+    "paragraphe2": "YFIVE.FINANCE is a new form of governance system, a think-tank where innovation, entrepreneurship, and technological advancements are the priority, creating a much needed utility focus to the blockchain space."
+  },
+  "features": {
+    "title": "Our Features",
+    "staking": "Staking",
+    "lending": "Lending",
+    "borrowing": "Borrowing",
+    "governance": "Governance"
+  },
+  "tokenomics": {
+    "distribution": "Token Distribution",
+    "usage": "Eco System Token Fund Usage"
+  }
+}

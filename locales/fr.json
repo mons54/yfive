@@ -1,0 +1,13 @@
+{
+  "links": {
+    "about": "À propos",
+    "features": "Features",
+    "tokenomics": "Tokenomics",
+    "roadmap": "Roadmap"
+  },
+  "home": {
+    "introduction": "Pour être récompensé tous les jours sur votre mise",
+    "buyToken": "Acheter",
+    "stacking": "Miner et gagner"
+  }
+}

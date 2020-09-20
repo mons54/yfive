@@ -1,0 +1,13 @@
+{
+  "links": {
+    "about": "Acerca de",
+    "features": "Features",
+    "tokenomics": "Tokenomics",
+    "roadmap": "Roadmap"
+  },
+  "home": {
+    "introduction": "Un mundo #Defi real para obtener recompensas todos los días en su apuesta",
+    "buyToken": "Comprar token",
+    "stacking": "Apilar y ganar"
+  }
+}
